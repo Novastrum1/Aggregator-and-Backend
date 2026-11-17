@@ -39,5 +39,6 @@ Use `@veltrixae/frontend-client` in veltrixae-frontend. Integrate veltrixae-cont
 - [Contributing](CONTRIBUTING.md), [security](SECURITY.md), [upstream attribution](docs/UPSTREAM_ATTRIBUTION.md), [notices](NOTICE), [license review](docs/LICENSE_REVIEW.md)
 - [Funding checklist](docs/FUNDING_CHECKLIST.md), [SCF technical evidence](docs/SCF_TECHNICAL_EVIDENCE.md), [funding evidence](docs/FUNDING_EVIDENCE.md), [roadmap](docs/ROADMAP.md), [contributor issue drafts](docs/issues/README.md)
 - [Testnet plan](docs/TESTNET_LIVE_PLAN.md), [deployment reconciliation](docs/DEPLOYMENT_RECONCILIATION.md), [Rust advisories](docs/RUST_ADVISORIES.md)
+- [Production readiness gates](docs/PRODUCTION_READINESS.md)
 
 The root MIT license is preserved and covers original VELTRIXAE work. VELTRIXAE builds on [Soroswap](https://github.com/soroswap/aggregator), whose copyright and licenses remain with its authors. Upstream has an Apache-2.0 license file and GPL-3.0 Cargo declarations, and nested protocols include GPL-3.0 and AGPL-3.0 code. These conflicts are unresolved and are [flagged, not settled](docs/LICENSE_REVIEW.md); review them before distribution. No upstream license is replaced by branding.
