@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-11-21T21:57:48.673Z",
+  "method": "Read-only Horizon lookups: hash, success, ledger, fee and source. Operation-to-contract binding remains in historical evidence.",
+  "receipts": [
+    {
+      "operation": "pair_upload",
+      "hash": "7bfc9d2277ffd53a9d401473308b8494d1e0cdb06d093e1cc001ca7d9836e4d9",
+      "url": "https://horizon-testnet.stellar.org/transactions/7bfc9d2277ffd53a9d401473308b8494d1e0cdb06d093e1cc001ca7d9836e4d9",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510476,
+      "feeCharged": "15982590",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "factory_upload",
+      "hash": "981b5da90bd77e116839f40681f97f2171b2e659cb9500e0d8b1dfa1d5bc2c03",
+      "url": "https://horizon-testnet.stellar.org/transactions/981b5da90bd77e116839f40681f97f2171b2e659cb9500e0d8b1dfa1d5bc2c03",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510477,
+      "feeCharged": "5674156",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "router_upload",
+      "hash": "d889ec70187cabeb42b2bde004b83e7404c21465fc68b4882328f2c437657cb5",
+      "url": "https://horizon-testnet.stellar.org/transactions/d889ec70187cabeb42b2bde004b83e7404c21465fc68b4882328f2c437657cb5",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510478,
+      "feeCharged": "13141542",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "factory_deploy",
+      "hash": "a8ff0145b02f4d825c75fbe986065090acbbd40beba24c122fd90a8d6acf4aef",
+      "url": "https://horizon-testnet.stellar.org/transactions/a8ff0145b02f4d825c75fbe986065090acbbd40beba24c122fd90a8d6acf4aef",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510479,
+      "feeCharged": "14898",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "factory_initialize",
+      "hash": "6163766dce774f96180a27802052349838bb8b7cbcac37050c279264191c8511",
+      "url": "https://horizon-testnet.stellar.org/transactions/6163766dce774f96180a27802052349838bb8b7cbcac37050c279264191c8511",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510634,
+      "feeCharged": "18769580",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "router_deploy",
+      "hash": "46c46fc26fbf9dc3ec799172ccdbf13645f7e8184e229d01e776b085744c7bba",
+      "url": "https://horizon-testnet.stellar.org/transactions/46c46fc26fbf9dc3ec799172ccdbf13645f7e8184e229d01e776b085744c7bba",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5510635,
+      "feeCharged": "14927",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    },
+    {
+      "operation": "router_initialize",
+      "hash": "74c6c3fbbd59b56a5882185d2ee64236705a8f633bce5bb42ad4a738d8b90993",
+      "url": "https://horizon-testnet.stellar.org/transactions/74c6c3fbbd59b56a5882185d2ee64236705a8f633bce5bb42ad4a738d8b90993",
+      "httpStatus": 200,
+      "successful": true,
+      "ledger": 5515146,
+      "feeCharged": "43516969",
+      "sourceAccount": "GCOK3K62FKMGHI4AJRRNEN6WJQUERE5ZPOHEKF6BB5M4GH3BDCQQMXFL",
+      "matchesRecordedReceipt": true
+    }
+  ]
+}

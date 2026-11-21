@@ -1,5 +1,19 @@
 # Read-only integration evidence
 
+## Latest checks — 2026-11-21
+
+See [current remediation status](../READINESS_REMEDIATION_2026-11-21.md).
+`testnet-verification-2026-11-21.json` captures fresh read-only RPC checks;
+`horizon-receipts-2026-11-21.json` rechecks seven historical successful
+transactions beyond RPC retention; `routing-benchmark-2026-11-21.json` records
+reproducible synthetic operation counts. All three are pinned in SHA256SUMS.
+No writes, new deployment, pool funding or wallet swap occurred.
+The sections below are historical snapshots, including their then-missing
+deployment records; the November 2 records and November 21 checks supersede
+that absence-of-records statement, not the unresolved licensing limitations.
+
+## Historical checks — 2026-11-01
+
 Observed on 2026-11-01; revalidation is required before use.
 
 - `soroswap-core-testnet-candidate.json` matches the official file at https://github.com/soroswap/core/blob/bb90a65556d8eee0dc698ac75de0f280e547fedc/public/testnet.contracts.json. It is a candidate snapshot, never active application configuration.
