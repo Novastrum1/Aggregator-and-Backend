@@ -35,6 +35,7 @@ Use `@veltrixae/frontend-client` in veltrixae-frontend. Integrate veltrixae-cont
 - [Aggregation](docs/AGGREGATION.md), [routing](docs/ROUTING.md), [API](docs/API.md)
 - [Frontend](docs/FRONTEND_INTEGRATION.md), [contract integration](docs/CONTRACT_INTEGRATION.md)
 - [Deployment and environment](docs/DEPLOYMENT.md), [testing](docs/TESTING.md)
+- [Current readiness evidence and remaining blockers](docs/READINESS_REMEDIATION_2026-11-21.md)
 - [Original contributions and measurements](docs/ORIGINAL_CONTRIBUTIONS.md), [changelog](CHANGELOG.md)
 - [Contributing](CONTRIBUTING.md), [security](SECURITY.md), [upstream attribution](docs/UPSTREAM_ATTRIBUTION.md), [notices](NOTICE), [license review](docs/LICENSE_REVIEW.md)
 - [Funding checklist](docs/FUNDING_CHECKLIST.md), [SCF technical evidence](docs/SCF_TECHNICAL_EVIDENCE.md), [funding evidence](docs/FUNDING_EVIDENCE.md), [roadmap](docs/ROADMAP.md), [contributor issue drafts](docs/issues/README.md)

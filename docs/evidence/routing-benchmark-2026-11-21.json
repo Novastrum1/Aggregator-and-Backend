@@ -1,0 +1,9 @@
+{
+  "workload": "1000 synthetic pools, 997 disconnected, direct and two-hop routes",
+  "baselineFlatPoolChecks": 2000,
+  "indexedPoolChecks": 4,
+  "indexBuildPoolVisits": 1000,
+  "routeStates": 4,
+  "returnedRoutes": 2,
+  "note": "Operation counts only. Index construction is O(pools); no end-to-end latency claim."
+}

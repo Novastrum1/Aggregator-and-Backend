@@ -1,5 +1,16 @@
 # Deployment reconciliation
 
+Update 2026-11-21: fresh [read-only chain checks](evidence/testnet-verification-2026-11-21.json)
+still match all three recorded WASM hashes and an empty factory. The seven
+[Horizon receipts](evidence/horizon-receipts-2026-11-21.json) still match recorded
+success, ledger, fee and source; they are outside current RPC retention.
+Pair code reports TTL zero and no instance exists, so hash presence alone does
+not establish usable Pair code lifetime. See the
+[current remediation report](READINESS_REMEDIATION_2026-11-21.md).
+The historical comparison below is dated; documentation reconciliation is
+prepared on Contract's `codex/readiness-evidence` branch. It is not evidence of
+deployment of current main or resolution of licensing.
+
 Compares this repository's deployment records with VELTRIXAE/Contract at `main` (`9ce68de`), checked 2026-11-04. Blockchain evidence is unchanged: this only compares it. Evidence files are protected by `docs/evidence/SHA256SUMS`.
 
 ## Conclusion
